@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DSCECONNECT</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <string-array name="desigs">
+        <item>Alumni</item>
+        <item>Faculty</item>
+        <item>Student</item>
+    </string-array>
+</resources>

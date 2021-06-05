@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240215911360",
+    "project_id": "dsceconnect-15888",
+    "storage_bucket": "dsceconnect-15888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240215911360:android:79eacee063c0a26e7f7625",
+        "android_client_info": {
+          "package_name": "com.example.dsceconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240215911360-lfnn87k6bm6dt6i5ceo7dk1c2s07qihc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwZbfyvlBfk06fcmN6YJiUvylQmDDztE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240215911360-lfnn87k6bm6dt6i5ceo7dk1c2s07qihc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
